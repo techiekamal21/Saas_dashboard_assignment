@@ -175,6 +175,10 @@ npm test
 2. Upload `build` folder to your hosting provider
 3. Configure server to serve `index.html` for all routes
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 155e704165ef684a64a3ddfbf60ed58444c7dcfd
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -189,4 +193,8 @@ For support, email techiekamal21@gmail.com or create an issue in the repository.
 
 ---
 
+<<<<<<< HEAD
 **Built with ❤️ by techiekamal using React and modern web technologies**
+=======
+**Built with ❤️ techiekamal using React and modern web technologies**
+>>>>>>> 155e704165ef684a64a3ddfbf60ed58444c7dcfd
