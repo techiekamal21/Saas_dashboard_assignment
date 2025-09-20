@@ -4,7 +4,7 @@ After creating the repository on GitHub.com, run these commands:
 
 ```bash
 # Add remote origin
-git remote add origin https://github.com/techiekamal/saas-dashboard-react.git
+git remote add origin https://github.com/techiekamal21/saas-dashboard-react.git
 
 # Push to GitHub
 git push -u origin main
@@ -19,5 +19,4 @@ git push -u origin main
 ## After Publishing:
 1. Update the live demo URL in README.md after deploying to Vercel
 2. Add repository topics/tags for better discoverability
-3. Consider adding a LICENSE file
-4. Add screenshots to the README for better presentation
+3. Add screenshots to the README for better presentation
