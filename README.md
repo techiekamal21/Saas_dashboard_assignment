@@ -4,7 +4,7 @@ A modern, responsive SaaS dashboard built with React, featuring pixel-perfect de
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-deployed-app-url.vercel.app)
+[View Live Demo](https://saas-dashboard-react.vercel.app)
 
 ## 📋 Features
 
@@ -30,8 +30,8 @@ A modern, responsive SaaS dashboard built with React, featuring pixel-perfect de
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/saas-dashboard.git
-   cd saas-dashboard
+   git clone https://github.com/yourusername/saas-dashboard-react.git
+   cd saas-dashboard-react
    ```
 
 2. **Install dependencies**
