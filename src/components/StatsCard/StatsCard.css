@@ -1,0 +1,62 @@
+.stats-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 20px;
+  transition: all var(--transition-normal);
+  cursor: pointer;
+}
+
+.stats-card-header {
+  margin-bottom: 16px;
+}
+
+.stats-title {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-secondary);
+  margin: 0;
+}
+
+.stats-content {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.stats-value {
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--text-primary);
+  line-height: 1;
+}
+
+.stats-change {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 4px 8px;
+  border-radius: 6px;
+}
+
+.stats-change.positive {
+  color: var(--status-complete);
+  background-color: rgba(16, 185, 129, 0.1);
+}
+
+.stats-change.negative {
+  color: var(--status-rejected);
+  background-color: rgba(239, 68, 68, 0.1);
+}
+
+@media (max-width: 768px) {
+  .stats-card {
+    padding: 16px;
+  }
+  
+  .stats-value {
+    font-size: 24px;
+  }
+}
