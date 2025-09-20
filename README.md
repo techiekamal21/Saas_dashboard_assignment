@@ -4,7 +4,7 @@ A modern, responsive SaaS dashboard built with React, featuring pixel-perfect de
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://saas-dashboard-react.vercel.app)
+[View Live Demo designed by Kamal Patel(techiekamal)](https://saas-dashboard-assignment-iota.vercel.app/)
 
 ## 📋 Features
 
