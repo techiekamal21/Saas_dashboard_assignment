@@ -3,8 +3,8 @@
 After creating the repository on GitHub.com, run these commands:
 
 ```bash
-# Add remote origin (replace 'yourusername' with your GitHub username)
-git remote add origin https://github.com/yourusername/saas-dashboard-react.git
+# Add remote origin
+git remote add origin https://github.com/techiekamal/saas-dashboard-react.git
 
 # Push to GitHub
 git push -u origin main

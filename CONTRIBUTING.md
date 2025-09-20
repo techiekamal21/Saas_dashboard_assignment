@@ -5,7 +5,7 @@ Thank you for your interest in contributing to this project! Here are some guide
 ## Getting Started
 
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/yourusername/saas-dashboard-react.git`
+2. Clone your fork: `git clone https://github.com/techiekamal/saas-dashboard-react.git`
 3. Install dependencies: `npm install`
 4. Create a new branch: `git checkout -b feature/your-feature-name`
 

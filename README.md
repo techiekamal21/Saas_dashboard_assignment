@@ -30,7 +30,7 @@ A modern, responsive SaaS dashboard built with React, featuring pixel-perfect de
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/saas-dashboard-react.git
+   git clone https://github.com/techiekamal/saas-dashboard-react.git
    cd saas-dashboard-react
    ```
 
@@ -175,10 +175,6 @@ npm test
 2. Upload `build` folder to your hosting provider
 3. Configure server to serve `index.html` for all routes
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -189,8 +185,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email [your-email@example.com] or create an issue in the repository.
+For support, email techiekamal21@gmail.com or create an issue in the repository.
 
 ---
 
-**Built with ❤️ using React and modern web technologies**
+**Built with ❤️ by techiekamal using React and modern web technologies**
